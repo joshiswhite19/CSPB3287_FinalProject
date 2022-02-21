@@ -43,7 +43,7 @@ My initial idea for my final project is to develop a Hot Sauce Recipe Book and s
 
 ### Database and other planned tools:
 
-My tentative plan will be to create a local MySQL database (so nobody can steal my highly advanced sauce recipes), but my project will include all the table definitions for starting a new database on the computer of whoever uses the project. I will do all of my development in a Jupyter notebook so that I can include notes for usage of the database and also include any additional tools I may need to implement in Python.
+I will start off by diagramming my database and all relations in phpMyAdmin, where I will pull the resulting database creation code from. From there, I will do all of my development in a Jupyter notebook so that I can include notes for usage of the database and also include any additional tools I may need to implement in Python.
 
 ### What I hope to learn from this project:
-From this project I hope to learn how relational databases can be used to manage the logistics of a small operation that includes the storage and consumption of supplies, and tricks for how those lists can be updated and maintained in a smart way. Although making a list to track my hot sauce recipes is personally interesting to me, this type of database can easily be extended to other situations.
+From this project I hope to learn how relational databases can be used to manage the logistics of a small operation that includes the storage and consumption of supplies, and tricks for how those lists can be updated and maintained in a smart way. Although making a list to track my hot sauce recipes is personally interesting to me, this type of database can easily be extended to other situations. By developing such a database and additional Python code, I can learn how manipulating a database fits into larger programs, as well.
